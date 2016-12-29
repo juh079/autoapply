@@ -1,0 +1,1358 @@
+1482983223176	geckodriver	INFO	Listening on 127.0.0.1:59364
+1482983224170	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.cYCK1i0hV0D1
+1482983224173	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482983224301	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59378
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482983227743	Marionette	INFO	Listening on port 59378
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482983343009	geckodriver	INFO	Listening on 127.0.0.1:59578
+1482983343726	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.6bHyvrvJaD3C
+1482983343729	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482983343770	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59585
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482983346050	Marionette	INFO	Listening on port 59585
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482983401501	geckodriver	INFO	Listening on 127.0.0.1:59744
+1482983402437	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.SEuuV1EEdc00
+1482983402440	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482983402482	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59752
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482983404461	Marionette	INFO	Listening on port 59752
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482984042410	geckodriver	INFO	Listening on 127.0.0.1:60339
+1482984043073	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.0wBlBmHuyoEM
+1482984043077	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482984043092	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60346
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482984045938	Marionette	INFO	Listening on port 60346
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482984108084	geckodriver	INFO	Listening on 127.0.0.1:60523
+1482984109056	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.2tpuP44ND0hJ
+1482984109058	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482984109062	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60531
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482984110754	Marionette	INFO	Listening on port 60531
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482984203066	geckodriver	INFO	Listening on 127.0.0.1:60713
+1482984203644	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.cJeoVQpSBIOO
+1482984203648	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482984203811	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60721
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482984205981	Marionette	INFO	Listening on port 60721
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482984285589	geckodriver	INFO	Listening on 127.0.0.1:60892
+1482984286599	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.pjFKO0v15ICm
+1482984286602	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482984286606	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60899
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482984287450	Marionette	INFO	Listening on port 60899
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482984350843	geckodriver	INFO	Listening on 127.0.0.1:61033
+1482984351846	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.TLBWO9bEqpkg
+1482984351848	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482984351852	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61042
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482984352947	Marionette	INFO	Listening on port 61042
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482984821137	geckodriver	INFO	Listening on 127.0.0.1:61452
+1482984822073	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.KhPKVGKBIyeP
+1482984822076	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482984822080	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61459
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482984823806	Marionette	INFO	Listening on port 61459
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482984948177	geckodriver	INFO	Listening on 127.0.0.1:61637
+1482984949188	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.edBp8I3wFq3D
+1482984949190	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482984949193	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61645
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482984949971	Marionette	INFO	Listening on port 61645
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+2016-12-28 20:15:53.767 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:15:53.767 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:15:53.797 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:15:53.797 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:15:54.097 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:15:54.097 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:15:54.098 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:15:54.098 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:15:55.016 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:15:55.016 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:15:55.017 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:15:55.017 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:15:55.110 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:15:55.110 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:15:55.111 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:15:55.111 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:16:09.973 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:16:09.973 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:16:09.974 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:16:09.974 plugin-container[6955:1189631] Warning: did not get back top right metric
+1482984983648	geckodriver	INFO	Listening on 127.0.0.1:61770
+1482984984652	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.upxHGubnQNjs
+1482984984655	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482984984658	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61778
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482984985500	Marionette	INFO	Listening on port 61778
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+2016-12-28 20:16:30.244 plugin-container[6972:1190415] Warning: did not get back bottom left metric
+2016-12-28 20:16:30.244 plugin-container[6972:1190415] Warning: did not get back top right metric
+2016-12-28 20:16:30.266 plugin-container[6972:1190415] Warning: did not get back bottom left metric
+2016-12-28 20:16:30.266 plugin-container[6972:1190415] Warning: did not get back top right metric
+2016-12-28 20:16:30.365 plugin-container[6972:1190415] Warning: did not get back bottom left metric
+2016-12-28 20:16:30.365 plugin-container[6972:1190415] Warning: did not get back top right metric
+2016-12-28 20:16:30.366 plugin-container[6972:1190415] Warning: did not get back bottom left metric
+2016-12-28 20:16:30.366 plugin-container[6972:1190415] Warning: did not get back top right metric
+2016-12-28 20:16:31.303 plugin-container[6972:1190415] Warning: did not get back bottom left metric
+2016-12-28 20:16:31.303 plugin-container[6972:1190415] Warning: did not get back top right metric
+2016-12-28 20:16:31.304 plugin-container[6972:1190415] Warning: did not get back bottom left metric
+2016-12-28 20:16:31.305 plugin-container[6972:1190415] Warning: did not get back top right metric
+2016-12-28 20:16:39.235 plugin-container[6972:1190415] Warning: did not get back bottom left metric
+2016-12-28 20:16:39.235 plugin-container[6972:1190415] Warning: did not get back top right metric
+2016-12-28 20:16:39.236 plugin-container[6972:1190415] Warning: did not get back bottom left metric
+2016-12-28 20:16:39.236 plugin-container[6972:1190415] Warning: did not get back top right metric
+2016-12-28 20:16:40.091 plugin-container[6972:1190415] Warning: did not get back bottom left metric
+2016-12-28 20:16:40.091 plugin-container[6972:1190415] Warning: did not get back top right metric
+2016-12-28 20:16:40.092 plugin-container[6972:1190415] Warning: did not get back bottom left metric
+2016-12-28 20:16:40.092 plugin-container[6972:1190415] Warning: did not get back top right metric
+2016-12-28 20:16:43.110 plugin-container[6972:1190415] Warning: did not get back bottom left metric
+2016-12-28 20:16:43.110 plugin-container[6972:1190415] Warning: did not get back top right metric
+2016-12-28 20:16:43.441 plugin-container[6972:1190415] Warning: did not get back bottom left metric
+2016-12-28 20:16:43.441 plugin-container[6972:1190415] Warning: did not get back top right metric
+2016-12-28 20:16:45.013 plugin-container[6972:1190415] Warning: did not get back bottom left metric
+2016-12-28 20:16:45.013 plugin-container[6972:1190415] Warning: did not get back top right metric
+2016-12-28 20:16:45.032 plugin-container[6972:1190415] Warning: did not get back bottom left metric
+2016-12-28 20:16:45.032 plugin-container[6972:1190415] Warning: did not get back top right metric
+2016-12-28 20:16:45.530 plugin-container[6972:1190415] Warning: did not get back bottom left metric
+2016-12-28 20:16:45.530 plugin-container[6972:1190415] Warning: did not get back top right metric
+2016-12-28 20:16:46.696 plugin-container[6972:1190415] Warning: did not get back bottom left metric
+2016-12-28 20:16:46.696 plugin-container[6972:1190415] Warning: did not get back top right metric
+2016-12-28 20:16:50.207 plugin-container[6972:1190415] Warning: did not get back bottom left metric
+2016-12-28 20:16:50.207 plugin-container[6972:1190415] Warning: did not get back top right metric
+2016-12-28 20:16:52.481 plugin-container[6972:1190415] Warning: did not get back bottom left metric
+2016-12-28 20:16:52.481 plugin-container[6972:1190415] Warning: did not get back top right metric
+2016-12-28 20:16:52.931 plugin-container[6972:1190415] Warning: did not get back bottom left metric
+2016-12-28 20:16:52.931 plugin-container[6972:1190415] Warning: did not get back top right metric
+2016-12-28 20:16:53.006 plugin-container[6972:1190415] Warning: did not get back bottom left metric
+2016-12-28 20:16:53.006 plugin-container[6972:1190415] Warning: did not get back top right metric
+2016-12-28 20:16:54.214 plugin-container[6972:1190415] Warning: did not get back bottom left metric
+2016-12-28 20:16:54.214 plugin-container[6972:1190415] Warning: did not get back top right metric
+2016-12-28 20:17:14.609 plugin-container[6972:1190415] Warning: did not get back bottom left metric
+2016-12-28 20:17:14.609 plugin-container[6972:1190415] Warning: did not get back top right metric
+2016-12-28 20:17:14.610 plugin-container[6972:1190415] Warning: did not get back bottom left metric
+2016-12-28 20:17:14.610 plugin-container[6972:1190415] Warning: did not get back top right metric
+1482985072802	geckodriver	INFO	Listening on 127.0.0.1:61920
+1482985073809	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.XrlFKy2B39kH
+1482985073811	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482985073814	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61928
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482985074582	Marionette	INFO	Listening on port 61928
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+2016-12-28 20:17:59.172 plugin-container[7002:1192250] Warning: did not get back bottom left metric
+2016-12-28 20:17:59.172 plugin-container[7002:1192250] Warning: did not get back top right metric
+2016-12-28 20:17:59.192 plugin-container[7002:1192250] Warning: did not get back bottom left metric
+2016-12-28 20:17:59.192 plugin-container[7002:1192250] Warning: did not get back top right metric
+2016-12-28 20:18:00.184 plugin-container[7002:1192250] Warning: did not get back bottom left metric
+2016-12-28 20:18:00.184 plugin-container[7002:1192250] Warning: did not get back top right metric
+2016-12-28 20:18:00.185 plugin-container[7002:1192250] Warning: did not get back bottom left metric
+2016-12-28 20:18:00.185 plugin-container[7002:1192250] Warning: did not get back top right metric
+2016-12-28 20:18:00.287 plugin-container[7002:1192250] Warning: did not get back bottom left metric
+2016-12-28 20:18:00.287 plugin-container[7002:1192250] Warning: did not get back top right metric
+2016-12-28 20:18:00.288 plugin-container[7002:1192250] Warning: did not get back bottom left metric
+2016-12-28 20:18:00.288 plugin-container[7002:1192250] Warning: did not get back top right metric
+2016-12-28 20:18:01.222 plugin-container[7002:1192250] Warning: did not get back bottom left metric
+2016-12-28 20:18:01.222 plugin-container[7002:1192250] Warning: did not get back top right metric
+2016-12-28 20:18:01.224 plugin-container[7002:1192250] Warning: did not get back bottom left metric
+2016-12-28 20:18:01.224 plugin-container[7002:1192250] Warning: did not get back top right metric
+2016-12-28 20:18:08.055 plugin-container[7002:1192250] Warning: did not get back bottom left metric
+2016-12-28 20:18:08.055 plugin-container[7002:1192250] Warning: did not get back top right metric
+2016-12-28 20:18:08.074 plugin-container[7002:1192250] Warning: did not get back bottom left metric
+2016-12-28 20:18:08.074 plugin-container[7002:1192250] Warning: did not get back top right metric
+2016-12-28 20:18:08.909 plugin-container[7002:1192250] Warning: did not get back bottom left metric
+2016-12-28 20:18:08.909 plugin-container[7002:1192250] Warning: did not get back top right metric
+2016-12-28 20:18:08.909 plugin-container[7002:1192250] Warning: did not get back bottom left metric
+2016-12-28 20:18:08.909 plugin-container[7002:1192250] Warning: did not get back top right metric
+2016-12-28 20:25:51.860 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:25:51.892 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:25:51.893 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:25:51.894 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:25:52.360 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:25:52.360 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:25:52.377 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:25:52.377 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:25:52.944 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:25:52.944 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:25:53.797 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:25:53.797 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:25:53.852 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:25:53.852 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:25:57.504 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:25:57.504 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:26:00.312 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:26:00.312 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:26:00.313 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:26:00.313 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:28:49.371 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:28:49.371 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:28:49.373 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:28:49.373 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:28:51.576 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:28:51.576 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:28:51.577 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:28:51.577 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:30:14.083 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:30:14.126 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:30:14.128 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:30:14.128 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:30:34.839 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:30:34.839 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:30:34.840 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:30:34.840 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:30:38.020 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:30:38.020 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:30:38.022 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:30:38.022 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:30:38.053 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:30:38.053 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:30:38.986 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:30:38.986 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:30:38.987 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:30:38.987 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:31:38.146 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:31:38.146 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:31:38.147 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:31:38.147 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:31:39.205 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:31:39.205 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:31:39.205 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:31:39.205 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:31:46.833 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:31:46.833 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:31:46.835 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:31:46.835 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:31:50.165 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:31:50.165 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:31:50.165 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:31:50.166 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:31:59.974 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:31:59.974 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:31:59.975 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:31:59.975 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:32:01.944 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:32:01.944 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:32:01.945 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:32:01.945 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:32:09.403 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:32:09.404 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:32:09.405 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:32:09.405 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:32:11.169 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:32:11.169 plugin-container[6955:1189631] Warning: did not get back top right metric
+2016-12-28 20:32:11.170 plugin-container[6955:1189631] Warning: did not get back bottom left metric
+2016-12-28 20:32:11.170 plugin-container[6955:1189631] Warning: did not get back top right metric
+1482985939366	geckodriver	INFO	Listening on 127.0.0.1:62585
+1482985940249	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.2h7EsNJsvZSP
+1482985940252	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482985940275	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62592
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482985941781	Marionette	INFO	Listening on port 62592
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+2016-12-28 20:32:26.293 plugin-container[7074:1206165] Warning: did not get back bottom left metric
+2016-12-28 20:32:26.293 plugin-container[7074:1206165] Warning: did not get back top right metric
+2016-12-28 20:32:26.326 plugin-container[7074:1206165] Warning: did not get back bottom left metric
+2016-12-28 20:32:26.326 plugin-container[7074:1206165] Warning: did not get back top right metric
+2016-12-28 20:32:27.511 plugin-container[7074:1206165] Warning: did not get back bottom left metric
+2016-12-28 20:32:27.512 plugin-container[7074:1206165] Warning: did not get back top right metric
+2016-12-28 20:32:27.513 plugin-container[7074:1206165] Warning: did not get back bottom left metric
+2016-12-28 20:32:27.513 plugin-container[7074:1206165] Warning: did not get back top right metric
+2016-12-28 20:32:28.816 plugin-container[7074:1206165] Warning: did not get back bottom left metric
+2016-12-28 20:32:28.816 plugin-container[7074:1206165] Warning: did not get back top right metric
+2016-12-28 20:32:28.817 plugin-container[7074:1206165] Warning: did not get back bottom left metric
+2016-12-28 20:32:28.817 plugin-container[7074:1206165] Warning: did not get back top right metric
+2016-12-28 21:48:51.805 plugin-container[7074:1206165] Warning: did not get back bottom left metric
+2016-12-28 21:48:51.805 plugin-container[7074:1206165] Warning: did not get back top right metric
+2016-12-28 21:48:59.847 plugin-container[7074:1206165] Warning: did not get back bottom left metric
+2016-12-28 21:48:59.870 plugin-container[7074:1206165] Warning: did not get back top right metric
+2016-12-28 21:48:59.872 plugin-container[7074:1206165] Warning: did not get back bottom left metric
+2016-12-28 21:48:59.872 plugin-container[7074:1206165] Warning: did not get back top right metric
+2016-12-28 22:21:07.297 plugin-container[7074:1206165] Warning: did not get back bottom left metric
+2016-12-28 22:21:07.428 plugin-container[7074:1206165] Warning: did not get back top right metric
+2016-12-28 22:21:07.429 plugin-container[7074:1206165] Warning: did not get back bottom left metric
+2016-12-28 22:21:07.429 plugin-container[7074:1206165] Warning: did not get back top right metric
+2016-12-28 22:21:08.729 plugin-container[7074:1206165] Warning: did not get back bottom left metric
+2016-12-28 22:21:08.729 plugin-container[7074:1206165] Warning: did not get back top right metric
+2016-12-28 22:21:08.730 plugin-container[7074:1206165] Warning: did not get back bottom left metric
+2016-12-28 22:21:08.730 plugin-container[7074:1206165] Warning: did not get back top right metric
+1482992736994	geckodriver	INFO	Listening on 127.0.0.1:64297
+1482992737686	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.WwWd3mRG5FM6
+1482992737689	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482992737709	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64304
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482992739597	Marionette	INFO	Listening on port 64304
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+2016-12-28 22:25:45.624 plugin-container[7366:1245455] Warning: did not get back bottom left metric
+2016-12-28 22:25:45.624 plugin-container[7366:1245455] Warning: did not get back top right metric
+2016-12-28 22:25:45.644 plugin-container[7366:1245455] Warning: did not get back bottom left metric
+2016-12-28 22:25:45.644 plugin-container[7366:1245455] Warning: did not get back top right metric
+2016-12-28 22:25:46.694 plugin-container[7366:1245455] Warning: did not get back bottom left metric
+2016-12-28 22:25:46.694 plugin-container[7366:1245455] Warning: did not get back top right metric
+2016-12-28 22:25:46.695 plugin-container[7366:1245455] Warning: did not get back bottom left metric
+2016-12-28 22:25:46.695 plugin-container[7366:1245455] Warning: did not get back top right metric
+2016-12-28 22:25:46.807 plugin-container[7366:1245455] Warning: did not get back bottom left metric
+2016-12-28 22:25:46.807 plugin-container[7366:1245455] Warning: did not get back top right metric
+2016-12-28 22:25:46.808 plugin-container[7366:1245455] Warning: did not get back bottom left metric
+2016-12-28 22:25:46.808 plugin-container[7366:1245455] Warning: did not get back top right metric
+2016-12-28 22:25:49.109 plugin-container[7366:1245455] Warning: did not get back bottom left metric
+2016-12-28 22:25:49.109 plugin-container[7366:1245455] Warning: did not get back top right metric
+2016-12-28 22:25:49.110 plugin-container[7366:1245455] Warning: did not get back bottom left metric
+2016-12-28 22:25:49.110 plugin-container[7366:1245455] Warning: did not get back top right metric
+2016-12-28 22:25:56.355 plugin-container[7366:1245455] Warning: did not get back bottom left metric
+2016-12-28 22:25:56.355 plugin-container[7366:1245455] Warning: did not get back top right metric
+2016-12-28 22:25:56.356 plugin-container[7366:1245455] Warning: did not get back bottom left metric
+2016-12-28 22:25:56.356 plugin-container[7366:1245455] Warning: did not get back top right metric
+2016-12-28 22:25:58.511 plugin-container[7366:1245455] Warning: did not get back bottom left metric
+2016-12-28 22:25:58.511 plugin-container[7366:1245455] Warning: did not get back top right metric
+2016-12-28 22:25:58.512 plugin-container[7366:1245455] Warning: did not get back bottom left metric
+2016-12-28 22:25:58.512 plugin-container[7366:1245455] Warning: did not get back top right metric
+2016-12-28 22:26:01.216 plugin-container[7366:1245455] Warning: did not get back bottom left metric
+2016-12-28 22:26:01.216 plugin-container[7366:1245455] Warning: did not get back top right metric
+2016-12-28 22:26:01.217 plugin-container[7366:1245455] Warning: did not get back bottom left metric
+2016-12-28 22:26:01.217 plugin-container[7366:1245455] Warning: did not get back top right metric
+2016-12-28 22:26:42.572 plugin-container[7366:1245455] Warning: did not get back bottom left metric
+2016-12-28 22:26:42.572 plugin-container[7366:1245455] Warning: did not get back top right metric
+2016-12-28 22:26:42.573 plugin-container[7366:1245455] Warning: did not get back bottom left metric
+2016-12-28 22:26:42.573 plugin-container[7366:1245455] Warning: did not get back top right metric
+2016-12-28 22:27:33.164 plugin-container[7366:1245455] Warning: did not get back bottom left metric
+2016-12-28 22:27:33.164 plugin-container[7366:1245455] Warning: did not get back top right metric
+2016-12-28 22:27:33.165 plugin-container[7366:1245455] Warning: did not get back bottom left metric
+2016-12-28 22:27:33.165 plugin-container[7366:1245455] Warning: did not get back top right metric
+2016-12-28 22:28:40.437 plugin-container[7366:1245455] Warning: did not get back bottom left metric
+2016-12-28 22:28:40.437 plugin-container[7366:1245455] Warning: did not get back top right metric
+2016-12-28 22:28:40.438 plugin-container[7366:1245455] Warning: did not get back bottom left metric
+2016-12-28 22:28:40.438 plugin-container[7366:1245455] Warning: did not get back top right metric
+2016-12-28 22:28:42.359 plugin-container[7366:1245455] Warning: did not get back bottom left metric
+2016-12-28 22:28:42.359 plugin-container[7366:1245455] Warning: did not get back top right metric
+2016-12-28 22:28:42.360 plugin-container[7366:1245455] Warning: did not get back bottom left metric
+2016-12-28 22:28:42.360 plugin-container[7366:1245455] Warning: did not get back top right metric
+2016-12-28 22:56:34.533 plugin-container[7366:1245455] Warning: did not get back bottom left metric
+2016-12-28 22:56:34.548 plugin-container[7366:1245455] Warning: did not get back top right metric
+2016-12-28 22:56:34.550 plugin-container[7366:1245455] Warning: did not get back bottom left metric
+2016-12-28 22:56:34.550 plugin-container[7366:1245455] Warning: did not get back top right metric
+2016-12-28 22:56:38.995 plugin-container[7366:1245455] Warning: did not get back bottom left metric
+2016-12-28 22:56:38.996 plugin-container[7366:1245455] Warning: did not get back top right metric
+2016-12-28 22:56:38.996 plugin-container[7366:1245455] Warning: did not get back bottom left metric
+2016-12-28 22:56:38.997 plugin-container[7366:1245455] Warning: did not get back top right metric
+2016-12-28 22:57:35.234 plugin-container[7366:1245455] Warning: did not get back bottom left metric
+2016-12-28 22:57:35.234 plugin-container[7366:1245455] Warning: did not get back top right metric
+2016-12-28 22:57:35.235 plugin-container[7366:1245455] Warning: did not get back bottom left metric
+2016-12-28 22:57:35.235 plugin-container[7366:1245455] Warning: did not get back top right metric
+2016-12-28 22:57:36.972 plugin-container[7366:1245455] Warning: did not get back bottom left metric
+2016-12-28 22:57:36.972 plugin-container[7366:1245455] Warning: did not get back top right metric
+2016-12-28 22:57:36.973 plugin-container[7366:1245455] Warning: did not get back bottom left metric
+2016-12-28 22:57:36.973 plugin-container[7366:1245455] Warning: did not get back top right metric
+1482995557850	geckodriver	INFO	Listening on 127.0.0.1:50295
+1482995558645	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.irDqTdk6I0F1
+1482995558647	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482995558672	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50303
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482995560619	Marionette	INFO	Listening on port 50303
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+2016-12-28 23:12:46.705 plugin-container[7592:1297105] Warning: did not get back bottom left metric
+2016-12-28 23:12:46.705 plugin-container[7592:1297105] Warning: did not get back top right metric
+2016-12-28 23:12:46.733 plugin-container[7592:1297105] Warning: did not get back bottom left metric
+2016-12-28 23:12:46.733 plugin-container[7592:1297105] Warning: did not get back top right metric
+2016-12-28 23:12:47.061 plugin-container[7592:1297105] Warning: did not get back bottom left metric
+2016-12-28 23:12:47.061 plugin-container[7592:1297105] Warning: did not get back top right metric
+2016-12-28 23:12:47.062 plugin-container[7592:1297105] Warning: did not get back bottom left metric
+2016-12-28 23:12:47.062 plugin-container[7592:1297105] Warning: did not get back top right metric
+2016-12-28 23:12:47.926 plugin-container[7592:1297105] Warning: did not get back bottom left metric
+2016-12-28 23:12:47.926 plugin-container[7592:1297105] Warning: did not get back top right metric
+2016-12-28 23:12:47.927 plugin-container[7592:1297105] Warning: did not get back bottom left metric
+2016-12-28 23:12:47.927 plugin-container[7592:1297105] Warning: did not get back top right metric
+2016-12-28 23:12:48.119 plugin-container[7592:1297105] Warning: did not get back bottom left metric
+2016-12-28 23:12:48.119 plugin-container[7592:1297105] Warning: did not get back top right metric
+2016-12-28 23:12:48.119 plugin-container[7592:1297105] Warning: did not get back bottom left metric
+2016-12-28 23:12:48.119 plugin-container[7592:1297105] Warning: did not get back top right metric
+2016-12-28 23:12:49.844 plugin-container[7592:1297105] Warning: did not get back bottom left metric
+2016-12-28 23:12:49.844 plugin-container[7592:1297105] Warning: did not get back top right metric
+2016-12-28 23:12:49.845 plugin-container[7592:1297105] Warning: did not get back bottom left metric
+2016-12-28 23:12:49.845 plugin-container[7592:1297105] Warning: did not get back top right metric
+2016-12-28 23:12:53.684 plugin-container[7592:1297105] Warning: did not get back bottom left metric
+2016-12-28 23:12:53.684 plugin-container[7592:1297105] Warning: did not get back top right metric
+2016-12-28 23:12:53.685 plugin-container[7592:1297105] Warning: did not get back bottom left metric
+2016-12-28 23:12:53.685 plugin-container[7592:1297105] Warning: did not get back top right metric
+1482995616132	geckodriver	INFO	Listening on 127.0.0.1:50477
+1482995617115	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.kcboiCXPxVva
+1482995617118	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482995617122	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50485
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482995618589	Marionette	INFO	Listening on port 50485
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E0045,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A00C2,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+1482995685249	geckodriver	INFO	Listening on 127.0.0.1:50631
+1482995686191	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.If5kOmqIE1CQ
+1482995686193	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482995686197	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50639
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482995687770	Marionette	INFO	Listening on port 50639
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+2016-12-28 23:14:52.799 plugin-container[7634:1299763] Warning: did not get back bottom left metric
+2016-12-28 23:14:52.799 plugin-container[7634:1299763] Warning: did not get back top right metric
+2016-12-28 23:14:52.824 plugin-container[7634:1299763] Warning: did not get back bottom left metric
+2016-12-28 23:14:52.825 plugin-container[7634:1299763] Warning: did not get back top right metric
+2016-12-28 23:14:53.582 plugin-container[7634:1299763] Warning: did not get back bottom left metric
+2016-12-28 23:14:53.582 plugin-container[7634:1299763] Warning: did not get back top right metric
+2016-12-28 23:14:53.583 plugin-container[7634:1299763] Warning: did not get back bottom left metric
+2016-12-28 23:14:53.583 plugin-container[7634:1299763] Warning: did not get back top right metric
+2016-12-28 23:14:53.726 plugin-container[7634:1299763] Warning: did not get back bottom left metric
+2016-12-28 23:14:53.727 plugin-container[7634:1299763] Warning: did not get back top right metric
+2016-12-28 23:14:53.728 plugin-container[7634:1299763] Warning: did not get back bottom left metric
+2016-12-28 23:14:53.728 plugin-container[7634:1299763] Warning: did not get back top right metric
+2016-12-28 23:14:54.902 plugin-container[7634:1299763] Warning: did not get back bottom left metric
+2016-12-28 23:14:54.902 plugin-container[7634:1299763] Warning: did not get back top right metric
+2016-12-28 23:14:54.903 plugin-container[7634:1299763] Warning: did not get back bottom left metric
+2016-12-28 23:14:54.903 plugin-container[7634:1299763] Warning: did not get back top right metric
+1482995731117	geckodriver	INFO	Listening on 127.0.0.1:50833
+1482995732126	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.wPOWQ7iWRb9Q
+1482995732128	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482995732131	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50840
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482995732926	Marionette	INFO	Listening on port 50840
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+2016-12-28 23:15:40.539 plugin-container[7649:1300698] Warning: did not get back bottom left metric
+2016-12-28 23:15:40.539 plugin-container[7649:1300698] Warning: did not get back top right metric
+2016-12-28 23:15:40.557 plugin-container[7649:1300698] Warning: did not get back bottom left metric
+2016-12-28 23:15:40.557 plugin-container[7649:1300698] Warning: did not get back top right metric
+2016-12-28 23:15:41.004 plugin-container[7649:1300698] Warning: did not get back bottom left metric
+2016-12-28 23:15:41.004 plugin-container[7649:1300698] Warning: did not get back top right metric
+2016-12-28 23:15:41.006 plugin-container[7649:1300698] Warning: did not get back bottom left metric
+2016-12-28 23:15:41.006 plugin-container[7649:1300698] Warning: did not get back top right metric
+2016-12-28 23:15:42.354 plugin-container[7649:1300698] Warning: did not get back bottom left metric
+2016-12-28 23:15:42.354 plugin-container[7649:1300698] Warning: did not get back top right metric
+2016-12-28 23:15:42.355 plugin-container[7649:1300698] Warning: did not get back bottom left metric
+2016-12-28 23:15:42.355 plugin-container[7649:1300698] Warning: did not get back top right metric
+2016-12-28 23:15:52.313 plugin-container[7649:1300698] Warning: did not get back bottom left metric
+2016-12-28 23:15:52.313 plugin-container[7649:1300698] Warning: did not get back top right metric
+2016-12-28 23:15:52.314 plugin-container[7649:1300698] Warning: did not get back bottom left metric
+2016-12-28 23:15:52.314 plugin-container[7649:1300698] Warning: did not get back top right metric
+1482999244396	geckodriver	INFO	Listening on 127.0.0.1:53129
+1482999245224	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.b0tbVWVSxnio
+1482999245226	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482999245242	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53136
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482999247483	Marionette	INFO	Listening on port 53136
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 7928] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 7928] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1482999427045	geckodriver	INFO	Listening on 127.0.0.1:53452
+1482999427995	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.coadEkEwaduI
+1482999427998	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482999428039	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53459
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482999429910	Marionette	INFO	Listening on port 53459
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482999511417	geckodriver	INFO	Listening on 127.0.0.1:53604
+1482999512420	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.O0HZkpjhCBP2
+1482999512422	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482999512426	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53611
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482999513806	Marionette	INFO	Listening on port 53611
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483000156910	geckodriver	INFO	Listening on 127.0.0.1:54630
+1483000157567	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.fLQXoc3f87J9
+1483000157570	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483000157597	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54638
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483000159464	Marionette	INFO	Listening on port 54638
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483000219075	geckodriver	INFO	Listening on 127.0.0.1:54732
+1483000220082	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.DpUyfIrDrrj7
+1483000220085	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483000220088	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54740
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483000220937	Marionette	INFO	Listening on port 54740
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+2016-12-29 00:30:24.934 plugin-container[8124:1382558] Warning: did not get back bottom left metric
+2016-12-29 00:30:24.934 plugin-container[8124:1382558] Warning: did not get back top right metric
+2016-12-29 00:30:24.962 plugin-container[8124:1382558] Warning: did not get back bottom left metric
+2016-12-29 00:30:24.962 plugin-container[8124:1382558] Warning: did not get back top right metric
+2016-12-29 00:30:25.010 plugin-container[8124:1382558] Warning: did not get back bottom left metric
+2016-12-29 00:30:25.010 plugin-container[8124:1382558] Warning: did not get back top right metric
+2016-12-29 00:30:25.011 plugin-container[8124:1382558] Warning: did not get back bottom left metric
+2016-12-29 00:30:25.011 plugin-container[8124:1382558] Warning: did not get back top right metric
+2016-12-29 00:30:25.291 plugin-container[8124:1382558] Warning: did not get back bottom left metric
+2016-12-29 00:30:25.291 plugin-container[8124:1382558] Warning: did not get back top right metric
+2016-12-29 00:30:25.292 plugin-container[8124:1382558] Warning: did not get back bottom left metric
+2016-12-29 00:30:25.292 plugin-container[8124:1382558] Warning: did not get back top right metric
+2016-12-29 00:30:26.142 plugin-container[8124:1382558] Warning: did not get back bottom left metric
+2016-12-29 00:30:26.142 plugin-container[8124:1382558] Warning: did not get back top right metric
+2016-12-29 00:30:26.142 plugin-container[8124:1382558] Warning: did not get back bottom left metric
+2016-12-29 00:30:26.143 plugin-container[8124:1382558] Warning: did not get back top right metric
+2016-12-29 00:30:26.294 plugin-container[8124:1382558] Warning: did not get back bottom left metric
+2016-12-29 00:30:26.294 plugin-container[8124:1382558] Warning: did not get back top right metric
+2016-12-29 00:30:26.294 plugin-container[8124:1382558] Warning: did not get back bottom left metric
+2016-12-29 00:30:26.294 plugin-container[8124:1382558] Warning: did not get back top right metric
+2016-12-29 00:30:27.904 plugin-container[8124:1382558] Warning: did not get back bottom left metric
+2016-12-29 00:30:27.904 plugin-container[8124:1382558] Warning: did not get back top right metric
+2016-12-29 00:30:27.907 plugin-container[8124:1382558] Warning: did not get back bottom left metric
+2016-12-29 00:30:27.907 plugin-container[8124:1382558] Warning: did not get back top right metric
+2016-12-29 00:30:29.718 plugin-container[8124:1382558] Warning: did not get back bottom left metric
+2016-12-29 00:30:29.718 plugin-container[8124:1382558] Warning: did not get back top right metric
+2016-12-29 00:30:29.719 plugin-container[8124:1382558] Warning: did not get back bottom left metric
+2016-12-29 00:30:29.719 plugin-container[8124:1382558] Warning: did not get back top right metric
+2016-12-29 00:30:36.692 plugin-container[8124:1382558] Warning: did not get back bottom left metric
+2016-12-29 00:30:36.692 plugin-container[8124:1382558] Warning: did not get back top right metric
+2016-12-29 00:30:36.693 plugin-container[8124:1382558] Warning: did not get back bottom left metric
+2016-12-29 00:30:36.693 plugin-container[8124:1382558] Warning: did not get back top right metric
+2016-12-29 00:30:43.412 plugin-container[8124:1382558] Warning: did not get back bottom left metric
+2016-12-29 00:30:43.412 plugin-container[8124:1382558] Warning: did not get back top right metric
+2016-12-29 00:30:43.413 plugin-container[8124:1382558] Warning: did not get back bottom left metric
+2016-12-29 00:30:43.413 plugin-container[8124:1382558] Warning: did not get back top right metric
+2016-12-29 00:30:44.135 plugin-container[8124:1382558] Warning: did not get back bottom left metric
+2016-12-29 00:30:44.135 plugin-container[8124:1382558] Warning: did not get back top right metric
+2016-12-29 00:30:44.136 plugin-container[8124:1382558] Warning: did not get back bottom left metric
+2016-12-29 00:30:44.136 plugin-container[8124:1382558] Warning: did not get back top right metric
+2016-12-29 00:30:49.542 plugin-container[8124:1382558] Warning: did not get back bottom left metric
+2016-12-29 00:30:49.542 plugin-container[8124:1382558] Warning: did not get back top right metric
+2016-12-29 00:30:49.543 plugin-container[8124:1382558] Warning: did not get back bottom left metric
+2016-12-29 00:30:49.543 plugin-container[8124:1382558] Warning: did not get back top right metric
+2016-12-29 00:31:08.951 plugin-container[8124:1382558] Warning: did not get back bottom left metric
+2016-12-29 00:31:08.951 plugin-container[8124:1382558] Warning: did not get back top right metric
+2016-12-29 00:31:08.952 plugin-container[8124:1382558] Warning: did not get back bottom left metric
+2016-12-29 00:31:08.952 plugin-container[8124:1382558] Warning: did not get back top right metric
+2016-12-29 00:31:10.086 plugin-container[8124:1382558] Warning: did not get back bottom left metric
+2016-12-29 00:31:10.086 plugin-container[8124:1382558] Warning: did not get back top right metric
+2016-12-29 00:31:10.087 plugin-container[8124:1382558] Warning: did not get back bottom left metric
+2016-12-29 00:31:10.087 plugin-container[8124:1382558] Warning: did not get back top right metric
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E0045,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A00C2,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+1483000294921	geckodriver	INFO	Listening on 127.0.0.1:54984
+1483000295928	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.hMNPmgcBvfdu
+1483000295930	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483000295934	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54991
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483000297241	Marionette	INFO	Listening on port 54991
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+2016-12-29 00:31:40.580 plugin-container[8154:1384259] Warning: did not get back bottom left metric
+2016-12-29 00:31:40.580 plugin-container[8154:1384259] Warning: did not get back top right metric
+2016-12-29 00:31:40.650 plugin-container[8154:1384259] Warning: did not get back bottom left metric
+2016-12-29 00:31:40.650 plugin-container[8154:1384259] Warning: did not get back top right metric
+2016-12-29 00:31:41.457 plugin-container[8154:1384259] Warning: did not get back bottom left metric
+2016-12-29 00:31:41.457 plugin-container[8154:1384259] Warning: did not get back top right metric
+2016-12-29 00:31:41.459 plugin-container[8154:1384259] Warning: did not get back bottom left metric
+2016-12-29 00:31:41.459 plugin-container[8154:1384259] Warning: did not get back top right metric
+2016-12-29 00:31:41.875 plugin-container[8154:1384259] Warning: did not get back bottom left metric
+2016-12-29 00:31:41.875 plugin-container[8154:1384259] Warning: did not get back top right metric
+2016-12-29 00:31:41.876 plugin-container[8154:1384259] Warning: did not get back bottom left metric
+2016-12-29 00:31:41.876 plugin-container[8154:1384259] Warning: did not get back top right metric
+2016-12-29 00:31:43.314 plugin-container[8154:1384259] Warning: did not get back bottom left metric
+2016-12-29 00:31:43.314 plugin-container[8154:1384259] Warning: did not get back top right metric
+2016-12-29 00:31:43.316 plugin-container[8154:1384259] Warning: did not get back bottom left metric
+2016-12-29 00:31:43.317 plugin-container[8154:1384259] Warning: did not get back top right metric
+1483001023246	geckodriver	INFO	Listening on 127.0.0.1:55708
+1483001024252	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.7IaNAYHfxG1f
+1483001024254	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483001024257	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55716
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483001025302	Marionette	INFO	Listening on port 55716
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+2016-12-29 00:43:49.751 plugin-container[8226:1395976] Warning: did not get back bottom left metric
+2016-12-29 00:43:49.751 plugin-container[8226:1395976] Warning: did not get back top right metric
+2016-12-29 00:43:49.783 plugin-container[8226:1395976] Warning: did not get back bottom left metric
+2016-12-29 00:43:49.783 plugin-container[8226:1395976] Warning: did not get back top right metric
+2016-12-29 00:43:50.132 plugin-container[8226:1395976] Warning: did not get back bottom left metric
+2016-12-29 00:43:50.132 plugin-container[8226:1395976] Warning: did not get back top right metric
+2016-12-29 00:43:50.135 plugin-container[8226:1395976] Warning: did not get back bottom left metric
+2016-12-29 00:43:50.135 plugin-container[8226:1395976] Warning: did not get back top right metric
+2016-12-29 00:43:51.204 plugin-container[8226:1395976] Warning: did not get back bottom left metric
+2016-12-29 00:43:51.204 plugin-container[8226:1395976] Warning: did not get back top right metric
+2016-12-29 00:43:51.205 plugin-container[8226:1395976] Warning: did not get back bottom left metric
+2016-12-29 00:43:51.205 plugin-container[8226:1395976] Warning: did not get back top right metric
+2016-12-29 00:43:51.349 plugin-container[8226:1395976] Warning: did not get back bottom left metric
+2016-12-29 00:43:51.349 plugin-container[8226:1395976] Warning: did not get back top right metric
+2016-12-29 00:43:51.350 plugin-container[8226:1395976] Warning: did not get back bottom left metric
+2016-12-29 00:43:51.350 plugin-container[8226:1395976] Warning: did not get back top right metric
+2016-12-29 00:43:52.882 plugin-container[8226:1395976] Warning: did not get back bottom left metric
+2016-12-29 00:43:52.882 plugin-container[8226:1395976] Warning: did not get back top right metric
+2016-12-29 00:43:52.883 plugin-container[8226:1395976] Warning: did not get back bottom left metric
+2016-12-29 00:43:52.883 plugin-container[8226:1395976] Warning: did not get back top right metric
+JavaScript warning: https://app.jobvite.com/widget20.js?v=368, line 786: unreachable code after return statement
+JavaScript warning: https://app.jobvite.com/widget20.js?v=368, line 786: unreachable code after return statement
+JavaScript warning: https://app.jobvite.com/widget20.js?v=368, line 786: unreachable code after return statement
+1483001260043	geckodriver	INFO	Listening on 127.0.0.1:56414
+1483001261006	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.cmvYML7NgpKh
+1483001261021	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483001261066	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56422
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483001264608	Marionette	INFO	Listening on port 56422
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+2016-12-29 00:47:50.630 plugin-container[8278:1400803] Warning: did not get back bottom left metric
+2016-12-29 00:47:50.630 plugin-container[8278:1400803] Warning: did not get back top right metric
+2016-12-29 00:47:50.651 plugin-container[8278:1400803] Warning: did not get back bottom left metric
+2016-12-29 00:47:50.651 plugin-container[8278:1400803] Warning: did not get back top right metric
+2016-12-29 00:47:51.086 plugin-container[8278:1400803] Warning: did not get back bottom left metric
+2016-12-29 00:47:51.086 plugin-container[8278:1400803] Warning: did not get back top right metric
+2016-12-29 00:47:51.087 plugin-container[8278:1400803] Warning: did not get back bottom left metric
+2016-12-29 00:47:51.087 plugin-container[8278:1400803] Warning: did not get back top right metric
+2016-12-29 00:47:52.552 plugin-container[8278:1400803] Warning: did not get back bottom left metric
+2016-12-29 00:47:52.552 plugin-container[8278:1400803] Warning: did not get back top right metric
+2016-12-29 00:47:52.554 plugin-container[8278:1400803] Warning: did not get back bottom left metric
+2016-12-29 00:47:52.554 plugin-container[8278:1400803] Warning: did not get back top right metric
+JavaScript warning: https://app.jobvite.com/fboverlay.js, line 245: unreachable code after return statement
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1551"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1551:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:508:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype.onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:457:5
+Line: 1551, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1551"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1551:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:508:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype.onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:457:5
+Line: 1551, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1551"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1551:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:641:5
+NetworkResponseListener.prototype.onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:590:7
+NetworkResponseListener.prototype.onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:691:7
+Line: 1551, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1551"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1551:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:641:5
+NetworkResponseListener.prototype.onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:590:7
+NetworkResponseListener.prototype.onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:691:7
+Line: 1551, column: 0
+
+###!!! [Child][DispatchAsyncMessage] Error: (msgtype=0x2000C,name=???) Route error: message sent to unknown actor ID
+
+[Child 8226] ###!!! ABORT: Content child abort due to IPC error: file /builds/slave/m-rel-m64-00000000000000000000/build/src/dom/ipc/ContentChild.cpp, line 2346
+[Child 8226] ###!!! ABORT: Content child abort due to IPC error: file /builds/slave/m-rel-m64-00000000000000000000/build/src/dom/ipc/ContentChild.cpp, line 2346
+1483002030505	geckodriver	INFO	Listening on 127.0.0.1:57635
+1483002031477	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.0kWDrDMAdrJY
+1483002031481	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483002031523	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57643
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483002034226	Marionette	INFO	Listening on port 57643
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+2016-12-29 01:00:44.985 plugin-container[8573:1414911] Warning: did not get back bottom left metric
+2016-12-29 01:00:44.985 plugin-container[8573:1414911] Warning: did not get back top right metric
+2016-12-29 01:00:45.006 plugin-container[8573:1414911] Warning: did not get back bottom left metric
+2016-12-29 01:00:45.006 plugin-container[8573:1414911] Warning: did not get back top right metric
+2016-12-29 01:00:46.367 plugin-container[8573:1414911] Warning: did not get back bottom left metric
+2016-12-29 01:00:46.367 plugin-container[8573:1414911] Warning: did not get back top right metric
+2016-12-29 01:00:46.369 plugin-container[8573:1414911] Warning: did not get back bottom left metric
+2016-12-29 01:00:46.370 plugin-container[8573:1414911] Warning: did not get back top right metric
+JavaScript warning: https://app.jobvite.com/fboverlay.js, line 245: unreachable code after return statement
+2016-12-29 01:01:47.909 plugin-container[8573:1414911] Warning: did not get back bottom left metric
+2016-12-29 01:01:47.909 plugin-container[8573:1414911] Warning: did not get back top right metric
+2016-12-29 01:01:47.913 plugin-container[8573:1414911] Warning: did not get back bottom left metric
+2016-12-29 01:01:47.913 plugin-container[8573:1414911] Warning: did not get back top right metric
+1483002231619	geckodriver	INFO	Listening on 127.0.0.1:58211
+1483002232625	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.ZRONBYKJAOHd
+1483002232628	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483002232631	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58218
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483002233436	Marionette	INFO	Listening on port 58218
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+2016-12-29 01:03:57.465 plugin-container[8628:1419631] Warning: did not get back bottom left metric
+2016-12-29 01:03:57.466 plugin-container[8628:1419631] Warning: did not get back top right metric
+2016-12-29 01:03:57.497 plugin-container[8628:1419631] Warning: did not get back bottom left metric
+2016-12-29 01:03:57.497 plugin-container[8628:1419631] Warning: did not get back top right metric
+2016-12-29 01:03:57.794 plugin-container[8628:1419631] Warning: did not get back bottom left metric
+2016-12-29 01:03:57.794 plugin-container[8628:1419631] Warning: did not get back top right metric
+2016-12-29 01:03:57.796 plugin-container[8628:1419631] Warning: did not get back bottom left metric
+2016-12-29 01:03:57.796 plugin-container[8628:1419631] Warning: did not get back top right metric
+2016-12-29 01:03:58.572 plugin-container[8628:1419631] Warning: did not get back bottom left metric
+2016-12-29 01:03:58.572 plugin-container[8628:1419631] Warning: did not get back top right metric
+2016-12-29 01:03:58.573 plugin-container[8628:1419631] Warning: did not get back bottom left metric
+2016-12-29 01:03:58.573 plugin-container[8628:1419631] Warning: did not get back top right metric
+2016-12-29 01:03:58.683 plugin-container[8628:1419631] Warning: did not get back bottom left metric
+2016-12-29 01:03:58.684 plugin-container[8628:1419631] Warning: did not get back top right metric
+2016-12-29 01:03:58.684 plugin-container[8628:1419631] Warning: did not get back bottom left metric
+2016-12-29 01:03:58.684 plugin-container[8628:1419631] Warning: did not get back top right metric
+2016-12-29 01:04:01.901 plugin-container[8628:1419631] Warning: did not get back bottom left metric
+2016-12-29 01:04:01.901 plugin-container[8628:1419631] Warning: did not get back top right metric
+2016-12-29 01:04:01.902 plugin-container[8628:1419631] Warning: did not get back bottom left metric
+2016-12-29 01:04:01.902 plugin-container[8628:1419631] Warning: did not get back top right metric
+JavaScript error: chrome://marionette/content/listener.js, line 870: TypeError: can't access dead object
+1483002310009	geckodriver	INFO	Listening on 127.0.0.1:58393
+1483002311013	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.QhbMkdyzyRND
+1483002311015	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483002311026	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58400
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483002311767	Marionette	INFO	Listening on port 58400
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+2016-12-29 01:05:16.497 plugin-container[8656:1421177] Warning: did not get back bottom left metric
+2016-12-29 01:05:16.497 plugin-container[8656:1421177] Warning: did not get back top right metric
+2016-12-29 01:05:16.522 plugin-container[8656:1421177] Warning: did not get back bottom left metric
+2016-12-29 01:05:16.522 plugin-container[8656:1421177] Warning: did not get back top right metric
+2016-12-29 01:05:17.965 plugin-container[8656:1421177] Warning: did not get back bottom left metric
+2016-12-29 01:05:17.965 plugin-container[8656:1421177] Warning: did not get back top right metric
+2016-12-29 01:05:17.967 plugin-container[8656:1421177] Warning: did not get back bottom left metric
+2016-12-29 01:05:17.967 plugin-container[8656:1421177] Warning: did not get back top right metric
+JavaScript error: chrome://marionette/content/listener.js, line 870: TypeError: can't access dead object
+1483002421952	geckodriver	INFO	Listening on 127.0.0.1:58658
+1483002422959	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.XOtFzBBv78yq
+1483002422961	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483002422965	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58665
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483002424332	Marionette	INFO	Listening on port 58665
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483002520773	geckodriver	INFO	Listening on 127.0.0.1:58892
+1483002521779	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.bsnelq1KeYQe
+1483002521781	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483002521785	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58899
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483002522540	Marionette	INFO	Listening on port 58899
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+2016-12-29 01:08:46.382 plugin-container[8740:1425667] Warning: did not get back bottom left metric
+2016-12-29 01:08:46.382 plugin-container[8740:1425667] Warning: did not get back top right metric
+2016-12-29 01:08:46.410 plugin-container[8740:1425667] Warning: did not get back bottom left metric
+2016-12-29 01:08:46.410 plugin-container[8740:1425667] Warning: did not get back top right metric
+2016-12-29 01:08:47.236 plugin-container[8740:1425667] Warning: did not get back bottom left metric
+2016-12-29 01:08:47.236 plugin-container[8740:1425667] Warning: did not get back top right metric
+2016-12-29 01:08:47.237 plugin-container[8740:1425667] Warning: did not get back bottom left metric
+2016-12-29 01:08:47.237 plugin-container[8740:1425667] Warning: did not get back top right metric
+2016-12-29 01:08:47.625 plugin-container[8740:1425667] Warning: did not get back bottom left metric
+2016-12-29 01:08:47.626 plugin-container[8740:1425667] Warning: did not get back top right metric
+2016-12-29 01:08:47.628 plugin-container[8740:1425667] Warning: did not get back bottom left metric
+2016-12-29 01:08:47.628 plugin-container[8740:1425667] Warning: did not get back top right metric
+JavaScript error: resource://app/modules/UITour.jsm, line 691: TypeError: window is null
+JavaScript error: resource://app/modules/UITour.jsm, line 691: TypeError: window is null
+JavaScript error: resource://app/modules/UITour.jsm, line 691: TypeError: window is null
+JavaScript error: resource://app/modules/UITour.jsm, line 691: TypeError: window is null
+1483002874434	geckodriver	INFO	Listening on 127.0.0.1:59317
+1483002875440	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.gJ7zsFwW8NtW
+1483002875443	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483002875447	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59324
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483002876205	Marionette	INFO	Listening on port 59324
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+2016-12-29 01:14:40.401 plugin-container[8820:1432171] Warning: did not get back bottom left metric
+2016-12-29 01:14:40.401 plugin-container[8820:1432171] Warning: did not get back top right metric
+2016-12-29 01:14:40.420 plugin-container[8820:1432171] Warning: did not get back bottom left metric
+2016-12-29 01:14:40.420 plugin-container[8820:1432171] Warning: did not get back top right metric
+2016-12-29 01:14:41.377 plugin-container[8820:1432171] Warning: did not get back bottom left metric
+2016-12-29 01:14:41.377 plugin-container[8820:1432171] Warning: did not get back top right metric
+2016-12-29 01:14:41.378 plugin-container[8820:1432171] Warning: did not get back bottom left metric
+2016-12-29 01:14:41.378 plugin-container[8820:1432171] Warning: did not get back top right metric
+2016-12-29 01:14:41.444 plugin-container[8820:1432171] Warning: did not get back bottom left metric
+2016-12-29 01:14:41.444 plugin-container[8820:1432171] Warning: did not get back top right metric
+2016-12-29 01:14:41.445 plugin-container[8820:1432171] Warning: did not get back bottom left metric
+2016-12-29 01:14:41.445 plugin-container[8820:1432171] Warning: did not get back top right metric
+2016-12-29 01:14:42.697 plugin-container[8820:1432171] Warning: did not get back bottom left metric
+2016-12-29 01:14:42.697 plugin-container[8820:1432171] Warning: did not get back top right metric
+2016-12-29 01:14:42.698 plugin-container[8820:1432171] Warning: did not get back bottom left metric
+2016-12-29 01:14:42.698 plugin-container[8820:1432171] Warning: did not get back top right metric
+2016-12-29 01:14:42.968 plugin-container[8820:1432171] Warning: did not get back bottom left metric
+2016-12-29 01:14:42.968 plugin-container[8820:1432171] Warning: did not get back top right metric
+2016-12-29 01:14:42.970 plugin-container[8820:1432171] Warning: did not get back bottom left metric
+2016-12-29 01:14:42.970 plugin-container[8820:1432171] Warning: did not get back top right metric
+2016-12-29 01:18:38.980 plugin-container[8820:1432171] Warning: did not get back bottom left metric
+2016-12-29 01:18:38.993 plugin-container[8820:1432171] Warning: did not get back top right metric
+2016-12-29 01:18:38.994 plugin-container[8820:1432171] Warning: did not get back bottom left metric
+2016-12-29 01:18:38.994 plugin-container[8820:1432171] Warning: did not get back top right metric
+1483003120408	geckodriver	INFO	Listening on 127.0.0.1:59641
+1483003121415	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.ZAnKMRFyYGgd
+1483003121418	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483003121421	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59649
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483003122818	Marionette	INFO	Listening on port 59649
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+2016-12-29 01:18:47.145 plugin-container[8871:1437263] Warning: did not get back bottom left metric
+2016-12-29 01:18:47.145 plugin-container[8871:1437263] Warning: did not get back top right metric
+2016-12-29 01:18:47.173 plugin-container[8871:1437263] Warning: did not get back bottom left metric
+2016-12-29 01:18:47.173 plugin-container[8871:1437263] Warning: did not get back top right metric
+2016-12-29 01:18:48.034 plugin-container[8871:1437263] Warning: did not get back bottom left metric
+2016-12-29 01:18:48.034 plugin-container[8871:1437263] Warning: did not get back top right metric
+2016-12-29 01:18:48.035 plugin-container[8871:1437263] Warning: did not get back bottom left metric
+2016-12-29 01:18:48.035 plugin-container[8871:1437263] Warning: did not get back top right metric
+2016-12-29 01:18:48.116 plugin-container[8871:1437263] Warning: did not get back bottom left metric
+2016-12-29 01:18:48.117 plugin-container[8871:1437263] Warning: did not get back top right metric
+2016-12-29 01:18:48.117 plugin-container[8871:1437263] Warning: did not get back bottom left metric
+2016-12-29 01:18:48.117 plugin-container[8871:1437263] Warning: did not get back top right metric
+2016-12-29 01:18:49.846 plugin-container[8871:1437263] Warning: did not get back bottom left metric
+2016-12-29 01:18:49.846 plugin-container[8871:1437263] Warning: did not get back top right metric
+2016-12-29 01:18:49.849 plugin-container[8871:1437263] Warning: did not get back bottom left metric
+2016-12-29 01:18:49.849 plugin-container[8871:1437263] Warning: did not get back top right metric
+2016-12-29 01:18:49.965 plugin-container[8871:1437263] Warning: did not get back bottom left metric
+2016-12-29 01:18:49.965 plugin-container[8871:1437263] Warning: did not get back top right metric
+2016-12-29 01:18:49.968 plugin-container[8871:1437263] Warning: did not get back bottom left metric
+2016-12-29 01:18:49.968 plugin-container[8871:1437263] Warning: did not get back top right metric
+2016-12-29 01:21:14.043 plugin-container[8871:1437263] Warning: did not get back bottom left metric
+2016-12-29 01:21:14.061 plugin-container[8871:1437263] Warning: did not get back top right metric
+2016-12-29 01:21:14.062 plugin-container[8871:1437263] Warning: did not get back bottom left metric
+2016-12-29 01:21:14.062 plugin-container[8871:1437263] Warning: did not get back top right metric
+1483003275598	geckodriver	INFO	Listening on 127.0.0.1:59855
+1483003276599	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.xIpN5xEbhGyk
+1483003276601	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483003276605	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59862
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483003278115	Marionette	INFO	Listening on port 59862
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+2016-12-29 01:21:22.159 plugin-container[8907:1440572] Warning: did not get back bottom left metric
+2016-12-29 01:21:22.159 plugin-container[8907:1440572] Warning: did not get back top right metric
+2016-12-29 01:21:22.192 plugin-container[8907:1440572] Warning: did not get back bottom left metric
+2016-12-29 01:21:22.192 plugin-container[8907:1440572] Warning: did not get back top right metric
+2016-12-29 01:21:22.479 plugin-container[8907:1440572] Warning: did not get back bottom left metric
+2016-12-29 01:21:22.479 plugin-container[8907:1440572] Warning: did not get back top right metric
+2016-12-29 01:21:22.481 plugin-container[8907:1440572] Warning: did not get back bottom left metric
+2016-12-29 01:21:22.481 plugin-container[8907:1440572] Warning: did not get back top right metric
+2016-12-29 01:21:23.337 plugin-container[8907:1440572] Warning: did not get back bottom left metric
+2016-12-29 01:21:23.337 plugin-container[8907:1440572] Warning: did not get back top right metric
+2016-12-29 01:21:23.338 plugin-container[8907:1440572] Warning: did not get back bottom left metric
+2016-12-29 01:21:23.338 plugin-container[8907:1440572] Warning: did not get back top right metric
+2016-12-29 01:21:23.487 plugin-container[8907:1440572] Warning: did not get back bottom left metric
+2016-12-29 01:21:23.487 plugin-container[8907:1440572] Warning: did not get back top right metric
+2016-12-29 01:21:23.488 plugin-container[8907:1440572] Warning: did not get back bottom left metric
+2016-12-29 01:21:23.488 plugin-container[8907:1440572] Warning: did not get back top right metric
+2016-12-29 01:21:24.701 plugin-container[8907:1440572] Warning: did not get back bottom left metric
+2016-12-29 01:21:24.701 plugin-container[8907:1440572] Warning: did not get back top right metric
+2016-12-29 01:21:24.702 plugin-container[8907:1440572] Warning: did not get back bottom left metric
+2016-12-29 01:21:24.702 plugin-container[8907:1440572] Warning: did not get back top right metric
+1483003503018	geckodriver	INFO	Listening on 127.0.0.1:60284
+1483003504024	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.5dSGVBu6Xwju
+1483003504026	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483003504030	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60291
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483003505057	Marionette	INFO	Listening on port 60291
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483003544381	geckodriver	INFO	Listening on 127.0.0.1:60369
+1483003545385	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.87XCaMUrUGJE
+1483003545388	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483003545392	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60377
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483003546558	Marionette	INFO	Listening on port 60377
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+2016-12-29 01:25:52.447 plugin-container[8980:1445637] Warning: did not get back bottom left metric
+2016-12-29 01:25:52.447 plugin-container[8980:1445637] Warning: did not get back top right metric
+2016-12-29 01:25:52.478 plugin-container[8980:1445637] Warning: did not get back bottom left metric
+2016-12-29 01:25:52.479 plugin-container[8980:1445637] Warning: did not get back top right metric
+2016-12-29 01:25:52.757 plugin-container[8980:1445637] Warning: did not get back bottom left metric
+2016-12-29 01:25:52.758 plugin-container[8980:1445637] Warning: did not get back top right metric
+2016-12-29 01:25:52.760 plugin-container[8980:1445637] Warning: did not get back bottom left metric
+2016-12-29 01:25:52.760 plugin-container[8980:1445637] Warning: did not get back top right metric
+2016-12-29 01:25:53.577 plugin-container[8980:1445637] Warning: did not get back bottom left metric
+2016-12-29 01:25:53.577 plugin-container[8980:1445637] Warning: did not get back top right metric
+2016-12-29 01:25:53.578 plugin-container[8980:1445637] Warning: did not get back bottom left metric
+2016-12-29 01:25:53.578 plugin-container[8980:1445637] Warning: did not get back top right metric
+2016-12-29 01:25:53.734 plugin-container[8980:1445637] Warning: did not get back bottom left metric
+2016-12-29 01:25:53.734 plugin-container[8980:1445637] Warning: did not get back top right metric
+2016-12-29 01:25:53.736 plugin-container[8980:1445637] Warning: did not get back bottom left metric
+2016-12-29 01:25:53.736 plugin-container[8980:1445637] Warning: did not get back top right metric
+JavaScript error: resource://app/modules/UITour.jsm, line 691: TypeError: window is null
+JavaScript error: resource://app/modules/UITour.jsm, line 691: TypeError: window is null
+JavaScript error: resource://app/modules/UITour.jsm, line 691: TypeError: window is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: this.browserForTab is undefined
+Full stack: hasRemotenessChange@chrome://marionette/content/browser.js:233:9
+executeWhenReady@chrome://marionette/content/browser.js:264:9
+GeckoDriver.prototype.sendAsync@chrome://marionette/content/driver.js:218:5
+send/<@chrome://marionette/content/proxy.js:138:7
+send@chrome://marionette/content/proxy.js:105:12
+ownPriorityGetterTrap.get/<@chrome://marionette/content/proxy.js:24:25
+GeckoDriver.prototype.findElement@chrome://marionette/content/driver.js:1691:31
+TaskImpl_run@resource://gre/modules/Task.jsm:319:40
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+TaskImpl_handleResultValue@resource://gre/modules/Task.jsm:388:16
+TaskImpl_run@resource://gre/modules/Task.jsm:327:13
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+Dispatcher.prototype.execute@chrome://marionette/content/dispatcher.js:117:13
+Dispatcher.prototype.onPacket@chrome://marionette/content/dispatcher.js:88:5
+DebuggerTransport.prototype._onJSONObjectReady/<@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:482:11
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: this.browserForTab is undefined
+Full stack: hasRemotenessChange@chrome://marionette/content/browser.js:233:9
+executeWhenReady@chrome://marionette/content/browser.js:264:9
+GeckoDriver.prototype.sendAsync@chrome://marionette/content/driver.js:218:5
+send/<@chrome://marionette/content/proxy.js:138:7
+send@chrome://marionette/content/proxy.js:105:12
+ownPriorityGetterTrap.get/<@chrome://marionette/content/proxy.js:24:25
+GeckoDriver.prototype.findElement@chrome://marionette/content/driver.js:1691:31
+TaskImpl_run@resource://gre/modules/Task.jsm:319:40
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+TaskImpl_handleResultValue@resource://gre/modules/Task.jsm:388:16
+TaskImpl_run@resource://gre/modules/Task.jsm:327:13
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+Dispatcher.prototype.execute@chrome://marionette/content/dispatcher.js:117:13
+Dispatcher.prototype.onPacket@chrome://marionette/content/dispatcher.js:88:5
+DebuggerTransport.prototype._onJSONObjectReady/<@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:482:11
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+
+*************************
+*************************
+A coding exception was thrown in a Promise rejection callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: this.browserForTab is undefined
+Full stack: hasRemotenessChange@chrome://marionette/content/browser.js:233:9
+executeWhenReady@chrome://marionette/content/browser.js:264:9
+GeckoDriver.prototype.sendAsync@chrome://marionette/content/driver.js:218:5
+send/<@chrome://marionette/content/proxy.js:138:7
+send@chrome://marionette/content/proxy.js:105:12
+ownPriorityGetterTrap.get/<@chrome://marionette/content/proxy.js:24:25
+GeckoDriver.prototype.findElement@chrome://marionette/content/driver.js:1691:31
+TaskImpl_run@resource://gre/modules/Task.jsm:319:40
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+TaskImpl_handleResultValue@resource://gre/modules/Task.jsm:388:16
+TaskImpl_run@resource://gre/modules/Task.jsm:327:13
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+Dispatcher.prototype.execute@chrome://marionette/content/dispatcher.js:117:13
+Dispatcher.prototype.onPacket@chrome://marionette/content/dispatcher.js:88:5
+DebuggerTransport.prototype._onJSONObjectReady/<@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:482:11
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+
+*************************
+Marionette threw an error: TypeError: this.browserForTab is undefined
+hasRemotenessChange@chrome://marionette/content/browser.js:233:9
+executeWhenReady@chrome://marionette/content/browser.js:264:9
+GeckoDriver.prototype.sendAsync@chrome://marionette/content/driver.js:218:5
+send/<@chrome://marionette/content/proxy.js:138:7
+send@chrome://marionette/content/proxy.js:105:12
+ownPriorityGetterTrap.get/<@chrome://marionette/content/proxy.js:24:25
+GeckoDriver.prototype.findElement@chrome://marionette/content/driver.js:1691:31
+TaskImpl_run@resource://gre/modules/Task.jsm:319:40
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+TaskImpl_handleResultValue@resource://gre/modules/Task.jsm:388:16
+TaskImpl_run@resource://gre/modules/Task.jsm:327:13
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+Dispatcher.prototype.execute@chrome://marionette/content/dispatcher.js:117:13
+Dispatcher.prototype.onPacket@chrome://marionette/content/dispatcher.js:88:5
+DebuggerTransport.prototype._onJSONObjectReady/<@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:482:11
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+
+JavaScript error: https://a0.muscache.com/airbnb/static/packages/core.bundle-b364378e653cc7eb9862.js, line 41: ReferenceError: UET is not defined
+1483003746281	geckodriver	INFO	Listening on 127.0.0.1:60580
+1483003747287	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.s04dijZDLUcA
+1483003747289	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483003747292	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60589
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483003748074	Marionette	INFO	Listening on port 60589
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483003789090	geckodriver	INFO	Listening on 127.0.0.1:60660
+1483003790095	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.7NqhqgZXCXYU
+1483003790098	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483003790102	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60668
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483003790887	Marionette	INFO	Listening on port 60668
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483003963889	geckodriver	INFO	Listening on 127.0.0.1:60843
+1483003964895	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.lebAo1zQikEa
+1483003964898	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483003964902	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60851
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483003966283	Marionette	INFO	Listening on port 60851
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+2016-12-29 01:32:53.680 plugin-container[9087:1453711] Warning: did not get back bottom left metric
+2016-12-29 01:32:53.680 plugin-container[9087:1453711] Warning: did not get back top right metric
+2016-12-29 01:32:53.702 plugin-container[9087:1453711] Warning: did not get back bottom left metric
+2016-12-29 01:32:53.702 plugin-container[9087:1453711] Warning: did not get back top right metric
+2016-12-29 01:32:54.554 plugin-container[9087:1453711] Warning: did not get back bottom left metric
+2016-12-29 01:32:54.554 plugin-container[9087:1453711] Warning: did not get back top right metric
+2016-12-29 01:32:54.557 plugin-container[9087:1453711] Warning: did not get back bottom left metric
+2016-12-29 01:32:54.557 plugin-container[9087:1453711] Warning: did not get back top right metric
+2016-12-29 01:32:54.739 plugin-container[9087:1453711] Warning: did not get back bottom left metric
+2016-12-29 01:32:54.739 plugin-container[9087:1453711] Warning: did not get back top right metric
+2016-12-29 01:32:54.740 plugin-container[9087:1453711] Warning: did not get back bottom left metric
+2016-12-29 01:32:54.740 plugin-container[9087:1453711] Warning: did not get back top right metric
+1483004146914	geckodriver	INFO	Listening on 127.0.0.1:61042
+1483004147923	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.fsXEzT2PQDq8
+1483004147926	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483004147929	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61050
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483004148791	Marionette	INFO	Listening on port 61050
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483004326594	geckodriver	INFO	Listening on 127.0.0.1:61365
+1483004327566	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.uLZeJ0H8UH3v
+1483004327569	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483004327697	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61372
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483004329400	Marionette	INFO	Listening on port 61372
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: resource://app/modules/UITour.jsm, line 691: TypeError: window is null
+JavaScript error: resource://app/modules/UITour.jsm, line 691: TypeError: window is null
+JavaScript error: resource://app/modules/UITour.jsm, line 691: TypeError: window is null
+JavaScript error: resource://app/modules/UITour.jsm, line 691: TypeError: window is null
+1483004491073	geckodriver	INFO	Listening on 127.0.0.1:61653
+1483004492078	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.WNAj7qA5QnRD
+1483004492081	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483004492084	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61660
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483004492871	Marionette	INFO	Listening on port 61660
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483004636982	geckodriver	INFO	Listening on 127.0.0.1:61834
+1483004637988	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.Vu8Z06pBiakz
+1483004637991	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483004637995	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61842
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483004638777	Marionette	INFO	Listening on port 61842
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483004770117	geckodriver	INFO	Listening on 127.0.0.1:62030
+1483004771120	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.EMJmUB10F2UE
+1483004771124	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483004771132	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62037
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483004772149	Marionette	INFO	Listening on port 62037
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483004808756	geckodriver	INFO	Listening on 127.0.0.1:62136
+1483004809765	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.gjezjhoWePCX
+1483004809768	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483004809771	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62144
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483004810576	Marionette	INFO	Listening on port 62144
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483004852218	geckodriver	INFO	Listening on 127.0.0.1:62232
+1483004853219	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.HfuDzAw7RemZ
+1483004853221	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483004853224	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62239
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483004854088	Marionette	INFO	Listening on port 62239
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483004978080	geckodriver	INFO	Listening on 127.0.0.1:62414
+1483004979088	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.ohXc3sEQJWRv
+1483004979090	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483004979093	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62422
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483004979863	Marionette	INFO	Listening on port 62422
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483005000375	geckodriver	INFO	Listening on 127.0.0.1:62497
+1483005001378	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.DL9Xj8p53h9U
+1483005001380	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483005001383	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62504
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483005002232	Marionette	INFO	Listening on port 62504
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483005089386	geckodriver	INFO	Listening on 127.0.0.1:62630
+1483005090396	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.QOO5IwcnmwYb
+1483005090398	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483005090402	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62638
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483005091195	Marionette	INFO	Listening on port 62638
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483005473996	geckodriver	INFO	Listening on 127.0.0.1:63075
+1483005475018	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.kTOF0jGbBnG4
+1483005475022	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483005475026	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63083
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483005476539	Marionette	INFO	Listening on port 63083
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483005502840	geckodriver	INFO	Listening on 127.0.0.1:63179
+1483005503846	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.e4Jo7JK04Ktl
+1483005503848	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483005503852	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63186
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483005504630	Marionette	INFO	Listening on port 63186
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483005611892	geckodriver	INFO	Listening on 127.0.0.1:63304
+1483005612939	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.ifWUBTO5peSa
+1483005612947	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483005612953	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63311
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483005613771	Marionette	INFO	Listening on port 63311
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483005682840	geckodriver	INFO	Listening on 127.0.0.1:63418
+1483005683847	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.Z4YT5PflY7ms
+1483005683849	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483005683852	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63425
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483005684648	Marionette	INFO	Listening on port 63425
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+2016-12-29 02:01:29.509 plugin-container[9422:1485169] Warning: did not get back bottom left metric
+2016-12-29 02:01:29.509 plugin-container[9422:1485169] Warning: did not get back top right metric
+2016-12-29 02:01:29.532 plugin-container[9422:1485169] Warning: did not get back bottom left metric
+2016-12-29 02:01:29.532 plugin-container[9422:1485169] Warning: did not get back top right metric
+2016-12-29 02:01:31.071 plugin-container[9422:1485169] Warning: did not get back bottom left metric
+2016-12-29 02:01:31.071 plugin-container[9422:1485169] Warning: did not get back top right metric
+2016-12-29 02:01:31.072 plugin-container[9422:1485169] Warning: did not get back bottom left metric
+2016-12-29 02:01:31.072 plugin-container[9422:1485169] Warning: did not get back top right metric
+2016-12-29 02:02:17.841 firefox-bin[9421:1485091] Warning: did not get back bottom left metric
+2016-12-29 02:02:17.841 firefox-bin[9421:1485091] Warning: did not get back top right metric
+2016-12-29 02:02:19.407 firefox-bin[9421:1485091] Warning: did not get back bottom left metric
+2016-12-29 02:02:19.407 firefox-bin[9421:1485091] Warning: did not get back top right metric
+2016-12-29 02:02:19.791 firefox-bin[9421:1485091] Warning: did not get back bottom left metric
+2016-12-29 02:02:19.792 firefox-bin[9421:1485091] Warning: did not get back top right metric
+2016-12-29 02:02:20.265 firefox-bin[9421:1485091] Warning: did not get back bottom left metric
+2016-12-29 02:02:20.265 firefox-bin[9421:1485091] Warning: did not get back top right metric
+2016-12-29 02:02:21.395 firefox-bin[9421:1485091] Warning: did not get back bottom left metric
+2016-12-29 02:02:21.395 firefox-bin[9421:1485091] Warning: did not get back top right metric
+2016-12-29 02:02:25.843 firefox-bin[9421:1485091] Warning: did not get back bottom left metric
+2016-12-29 02:02:25.843 firefox-bin[9421:1485091] Warning: did not get back top right metric
+2016-12-29 02:02:25.965 firefox-bin[9421:1486306] WARNING: nextEventMatchingMask should only be called from the Main Thread! This will throw an exception in the future.
+2016-12-29 02:02:27.824 firefox-bin[9421:1485091] Warning: did not get back bottom left metric
+2016-12-29 02:02:27.824 firefox-bin[9421:1485091] Warning: did not get back top right metric
+2016-12-29 02:02:27.942 firefox-bin[9421:1485091] Warning: did not get back bottom left metric
+2016-12-29 02:02:27.942 firefox-bin[9421:1485091] Warning: did not get back top right metric
+2016-12-29 02:02:28.321 firefox-bin[9421:1485091] Warning: did not get back bottom left metric
+2016-12-29 02:02:28.321 firefox-bin[9421:1485091] Warning: did not get back top right metric
+2016-12-29 02:02:28.677 firefox-bin[9421:1485091] Warning: did not get back bottom left metric
+2016-12-29 02:02:28.677 firefox-bin[9421:1485091] Warning: did not get back top right metric
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483005752632	Marionette	INFO	Listening on port 63425
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483005768123	geckodriver	INFO	Listening on 127.0.0.1:63655
+1483005770315	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.CPWFOsAyCjms
+1483005770363	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483005770503	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63663
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483005772654	Marionette	INFO	Listening on port 63663
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+2016-12-29 02:03:01.946 plugin-container[9456:1487235] Warning: did not get back bottom left metric
+2016-12-29 02:03:01.946 plugin-container[9456:1487235] Warning: did not get back top right metric
+2016-12-29 02:03:02.019 plugin-container[9456:1487235] Warning: did not get back bottom left metric
+2016-12-29 02:03:02.019 plugin-container[9456:1487235] Warning: did not get back top right metric
+2016-12-29 02:03:02.363 plugin-container[9456:1487235] Warning: did not get back bottom left metric
+2016-12-29 02:03:02.363 plugin-container[9456:1487235] Warning: did not get back top right metric
+2016-12-29 02:03:02.365 plugin-container[9456:1487235] Warning: did not get back bottom left metric
+2016-12-29 02:03:02.365 plugin-container[9456:1487235] Warning: did not get back top right metric
+2016-12-29 02:03:03.474 plugin-container[9456:1487235] Warning: did not get back bottom left metric
+2016-12-29 02:03:03.475 plugin-container[9456:1487235] Warning: did not get back top right metric
+2016-12-29 02:03:03.476 plugin-container[9456:1487235] Warning: did not get back bottom left metric
+2016-12-29 02:03:03.476 plugin-container[9456:1487235] Warning: did not get back top right metric
+2016-12-29 02:03:03.586 plugin-container[9456:1487235] Warning: did not get back bottom left metric
+2016-12-29 02:03:03.586 plugin-container[9456:1487235] Warning: did not get back top right metric
+2016-12-29 02:03:03.587 plugin-container[9456:1487235] Warning: did not get back bottom left metric
+2016-12-29 02:03:03.587 plugin-container[9456:1487235] Warning: did not get back top right metric
+2016-12-29 02:03:05.613 plugin-container[9456:1487235] Warning: did not get back bottom left metric
+2016-12-29 02:03:05.613 plugin-container[9456:1487235] Warning: did not get back top right metric
+2016-12-29 02:03:05.614 plugin-container[9456:1487235] Warning: did not get back bottom left metric
+2016-12-29 02:03:05.614 plugin-container[9456:1487235] Warning: did not get back top right metric
+2016-12-29 02:03:32.145 firefox-bin[9455:1487943] WARNING: nextEventMatchingMask should only be called from the Main Thread! This will throw an exception in the future.
+1483006077410	geckodriver	INFO	Listening on 127.0.0.1:64092
+1483006078361	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.BAojL8Qav1OS
+1483006078363	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483006078368	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64099
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483006084299	Marionette	INFO	Listening on port 64099
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+2016-12-29 02:08:09.217 plugin-container[9498:1492567] Warning: did not get back bottom left metric
+2016-12-29 02:08:09.217 plugin-container[9498:1492567] Warning: did not get back top right metric
+2016-12-29 02:08:09.251 plugin-container[9498:1492567] Warning: did not get back bottom left metric
+2016-12-29 02:08:09.251 plugin-container[9498:1492567] Warning: did not get back top right metric
+2016-12-29 02:08:09.549 plugin-container[9498:1492567] Warning: did not get back bottom left metric
+2016-12-29 02:08:09.549 plugin-container[9498:1492567] Warning: did not get back top right metric
+2016-12-29 02:08:09.552 plugin-container[9498:1492567] Warning: did not get back bottom left metric
+2016-12-29 02:08:09.552 plugin-container[9498:1492567] Warning: did not get back top right metric
+2016-12-29 02:08:10.454 plugin-container[9498:1492567] Warning: did not get back bottom left metric
+2016-12-29 02:08:10.455 plugin-container[9498:1492567] Warning: did not get back top right metric
+2016-12-29 02:08:10.455 plugin-container[9498:1492567] Warning: did not get back bottom left metric
+2016-12-29 02:08:10.455 plugin-container[9498:1492567] Warning: did not get back top right metric
+2016-12-29 02:08:11.893 plugin-container[9498:1492567] Warning: did not get back bottom left metric
+2016-12-29 02:08:11.893 plugin-container[9498:1492567] Warning: did not get back top right metric
+2016-12-29 02:08:11.894 plugin-container[9498:1492567] Warning: did not get back bottom left metric
+2016-12-29 02:08:11.894 plugin-container[9498:1492567] Warning: did not get back top right metric
+1483006156164	geckodriver	INFO	Listening on 127.0.0.1:64456
+1483006157171	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.BHAyXt4P2WJx
+1483006157174	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483006157178	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64463
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483006157981	Marionette	INFO	Listening on port 64463
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+2016-12-29 02:09:21.562 plugin-container[9526:1494093] Warning: did not get back bottom left metric
+2016-12-29 02:09:21.562 plugin-container[9526:1494093] Warning: did not get back top right metric
+2016-12-29 02:09:21.589 plugin-container[9526:1494093] Warning: did not get back bottom left metric
+2016-12-29 02:09:21.589 plugin-container[9526:1494093] Warning: did not get back top right metric
+2016-12-29 02:09:22.331 plugin-container[9526:1494093] Warning: did not get back bottom left metric
+2016-12-29 02:09:22.331 plugin-container[9526:1494093] Warning: did not get back top right metric
+2016-12-29 02:09:22.332 plugin-container[9526:1494093] Warning: did not get back bottom left metric
+2016-12-29 02:09:22.332 plugin-container[9526:1494093] Warning: did not get back top right metric
+2016-12-29 02:09:22.697 plugin-container[9526:1494093] Warning: did not get back bottom left metric
+2016-12-29 02:09:22.697 plugin-container[9526:1494093] Warning: did not get back top right metric
+2016-12-29 02:09:22.698 plugin-container[9526:1494093] Warning: did not get back bottom left metric
+2016-12-29 02:09:22.698 plugin-container[9526:1494093] Warning: did not get back top right metric
+2016-12-29 02:09:24.114 plugin-container[9526:1494093] Warning: did not get back bottom left metric
+2016-12-29 02:09:24.114 plugin-container[9526:1494093] Warning: did not get back top right metric
+2016-12-29 02:09:24.116 plugin-container[9526:1494093] Warning: did not get back bottom left metric
+2016-12-29 02:09:24.116 plugin-container[9526:1494093] Warning: did not get back top right metric
+1483006245890	geckodriver	INFO	Listening on 127.0.0.1:64683
+1483006246896	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.hXLGt2Q2WvDw
+1483006246898	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483006246902	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64691
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483006247704	Marionette	INFO	Listening on port 64691
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+2016-12-29 02:10:51.180 plugin-container[9553:1495883] Warning: did not get back bottom left metric
+2016-12-29 02:10:51.180 plugin-container[9553:1495883] Warning: did not get back top right metric
+2016-12-29 02:10:51.211 plugin-container[9553:1495883] Warning: did not get back bottom left metric
+2016-12-29 02:10:51.211 plugin-container[9553:1495883] Warning: did not get back top right metric
+2016-12-29 02:10:51.513 plugin-container[9553:1495883] Warning: did not get back bottom left metric
+2016-12-29 02:10:51.513 plugin-container[9553:1495883] Warning: did not get back top right metric
+2016-12-29 02:10:51.515 plugin-container[9553:1495883] Warning: did not get back bottom left metric
+2016-12-29 02:10:51.515 plugin-container[9553:1495883] Warning: did not get back top right metric
+2016-12-29 02:10:52.311 plugin-container[9553:1495883] Warning: did not get back bottom left metric
+2016-12-29 02:10:52.311 plugin-container[9553:1495883] Warning: did not get back top right metric
+2016-12-29 02:10:52.312 plugin-container[9553:1495883] Warning: did not get back bottom left metric
+2016-12-29 02:10:52.312 plugin-container[9553:1495883] Warning: did not get back top right metric
+2016-12-29 02:10:52.464 plugin-container[9553:1495883] Warning: did not get back bottom left metric
+2016-12-29 02:10:52.465 plugin-container[9553:1495883] Warning: did not get back top right metric
+2016-12-29 02:10:52.465 plugin-container[9553:1495883] Warning: did not get back bottom left metric
+2016-12-29 02:10:52.465 plugin-container[9553:1495883] Warning: did not get back top right metric
+2016-12-29 02:10:53.659 plugin-container[9553:1495883] Warning: did not get back bottom left metric
+2016-12-29 02:10:53.659 plugin-container[9553:1495883] Warning: did not get back top right metric
+2016-12-29 02:10:53.660 plugin-container[9553:1495883] Warning: did not get back bottom left metric
+2016-12-29 02:10:53.660 plugin-container[9553:1495883] Warning: did not get back top right metric
+JavaScript warning: https://app.jobvite.com/fboverlay.js, line 245: unreachable code after return statement
+1483006366584	geckodriver	INFO	Listening on 127.0.0.1:64978
+1483006367591	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.Ek6x70VxBjl6
+1483006367593	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483006367597	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64986
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483006368421	Marionette	INFO	Listening on port 64986
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+2016-12-29 02:12:52.053 plugin-container[9583:1498159] Warning: did not get back bottom left metric
+2016-12-29 02:12:52.053 plugin-container[9583:1498159] Warning: did not get back top right metric
+2016-12-29 02:12:52.080 plugin-container[9583:1498159] Warning: did not get back bottom left metric
+2016-12-29 02:12:52.080 plugin-container[9583:1498159] Warning: did not get back top right metric
+2016-12-29 02:12:52.101 plugin-container[9583:1498159] Warning: did not get back bottom left metric
+2016-12-29 02:12:52.101 plugin-container[9583:1498159] Warning: did not get back top right metric
+2016-12-29 02:12:52.102 plugin-container[9583:1498159] Warning: did not get back bottom left metric
+2016-12-29 02:12:52.102 plugin-container[9583:1498159] Warning: did not get back top right metric
+2016-12-29 02:12:52.368 plugin-container[9583:1498159] Warning: did not get back bottom left metric
+2016-12-29 02:12:52.368 plugin-container[9583:1498159] Warning: did not get back top right metric
+2016-12-29 02:12:52.371 plugin-container[9583:1498159] Warning: did not get back bottom left metric
+2016-12-29 02:12:52.371 plugin-container[9583:1498159] Warning: did not get back top right metric
+2016-12-29 02:12:53.149 plugin-container[9583:1498159] Warning: did not get back bottom left metric
+2016-12-29 02:12:53.149 plugin-container[9583:1498159] Warning: did not get back top right metric
+2016-12-29 02:12:53.150 plugin-container[9583:1498159] Warning: did not get back bottom left metric
+2016-12-29 02:12:53.150 plugin-container[9583:1498159] Warning: did not get back top right metric
+2016-12-29 02:12:53.260 plugin-container[9583:1498159] Warning: did not get back bottom left metric
+2016-12-29 02:12:53.260 plugin-container[9583:1498159] Warning: did not get back top right metric
+2016-12-29 02:12:53.261 plugin-container[9583:1498159] Warning: did not get back bottom left metric
+2016-12-29 02:12:53.262 plugin-container[9583:1498159] Warning: did not get back top right metric
+2016-12-29 02:12:54.515 plugin-container[9583:1498159] Warning: did not get back bottom left metric
+2016-12-29 02:12:54.515 plugin-container[9583:1498159] Warning: did not get back top right metric
+2016-12-29 02:12:54.517 plugin-container[9583:1498159] Warning: did not get back bottom left metric
+2016-12-29 02:12:54.517 plugin-container[9583:1498159] Warning: did not get back top right metric
+JavaScript warning: https://app.jobvite.com/fboverlay.js, line 245: unreachable code after return statement
+1483006619381	geckodriver	INFO	Listening on 127.0.0.1:65359
+1483006620388	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.pNQX277tQ0C7
+1483006620390	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483006620394	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65367
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483006622636	Marionette	INFO	Listening on port 65367
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+2016-12-29 02:17:07.090 plugin-container[9624:1502563] Warning: did not get back bottom left metric
+2016-12-29 02:17:07.090 plugin-container[9624:1502563] Warning: did not get back top right metric
+2016-12-29 02:17:07.114 plugin-container[9624:1502563] Warning: did not get back bottom left metric
+2016-12-29 02:17:07.114 plugin-container[9624:1502563] Warning: did not get back top right metric
+2016-12-29 02:17:07.555 plugin-container[9624:1502563] Warning: did not get back bottom left metric
+2016-12-29 02:17:07.555 plugin-container[9624:1502563] Warning: did not get back top right metric
+2016-12-29 02:17:07.556 plugin-container[9624:1502563] Warning: did not get back bottom left metric
+2016-12-29 02:17:07.556 plugin-container[9624:1502563] Warning: did not get back top right metric
+2016-12-29 02:17:08.770 plugin-container[9624:1502563] Warning: did not get back bottom left metric
+2016-12-29 02:17:08.770 plugin-container[9624:1502563] Warning: did not get back top right metric
+2016-12-29 02:17:08.772 plugin-container[9624:1502563] Warning: did not get back bottom left metric
+2016-12-29 02:17:08.772 plugin-container[9624:1502563] Warning: did not get back top right metric
+JavaScript warning: https://app.jobvite.com/fboverlay.js, line 245: unreachable code after return statement
+1483006743519	geckodriver	INFO	Listening on 127.0.0.1:49316
+1483006744525	mozprofile::profile	INFO	Using profile path /var/folders/4y/nh5w1p8s7cb5s80g10kxk__c0000gn/T/rust_mozprofile.ft3PYvp8iPry
+1483006744527	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483006744531	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49323
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483006745330	Marionette	INFO	Listening on port 49323
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+2016-12-29 02:19:09.887 plugin-container[9656:1504881] Warning: did not get back bottom left metric
+2016-12-29 02:19:09.887 plugin-container[9656:1504881] Warning: did not get back top right metric
+2016-12-29 02:19:09.906 plugin-container[9656:1504881] Warning: did not get back bottom left metric
+2016-12-29 02:19:09.906 plugin-container[9656:1504881] Warning: did not get back top right metric
+2016-12-29 02:19:10.052 plugin-container[9656:1504881] Warning: did not get back bottom left metric
+2016-12-29 02:19:10.052 plugin-container[9656:1504881] Warning: did not get back top right metric
+2016-12-29 02:19:10.053 plugin-container[9656:1504881] Warning: did not get back bottom left metric
+2016-12-29 02:19:10.053 plugin-container[9656:1504881] Warning: did not get back top right metric
+2016-12-29 02:19:11.458 plugin-container[9656:1504881] Warning: did not get back bottom left metric
+2016-12-29 02:19:11.458 plugin-container[9656:1504881] Warning: did not get back top right metric
+2016-12-29 02:19:11.459 plugin-container[9656:1504881] Warning: did not get back bottom left metric
+2016-12-29 02:19:11.459 plugin-container[9656:1504881] Warning: did not get back top right metric
